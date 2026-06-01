@@ -1,173 +1,217 @@
-# Team-conflict
+# Team Conflict Resolution Framework
 
-Team Conflict Resolution Framework
-Team Name
+## Team Name
 
-[Insert Team Name]
+Car Maintenance Tracker
 
-Project
+## Project
 
-[Insert Project Name]
+Car Maintenance Tracker
 
-Team Members
-Member 1
-Member 2
-Member 3
-Member 4
-1. Team Goals
+## Team Members
+
+* Member 1: Dylan 
+* Member 2: Justin
+* Member 3: Nyree
+* Member 4: Tania
+
+## Team Goals
 
 Our team goal is to create a positive, respectful, and productive environment where all members contribute fairly and communicate openly throughout the project.
 
 We aim to:
 
-Complete tasks on time
-Support each other
-Communicate respectfully
-Resolve conflict professionally
-Maintain team wellbeing
-2. Communication Expectations
-Main Communication Platforms
-Discord:
-Messenger:
-GitHub:
-Trello/Jira (if used):
-Response Expectations
-Respond within 24 hours when possible
-Notify the team if unavailable
-Keep communication respectful and professional
-Team Meetings
-Weekly check-ins:
-Daily updates (if needed):
-Meeting times:
-3. Team Roles & Responsibilities
+* Complete tasks on time.
+* Support each other.
+* Communicate respectfully.
+* Resolve conflict professionally.
+* Maintain team wellbeing.
 
-Each member will:
+---
 
-Complete assigned tasks on time
-Ask for help when needed
-Communicate progress regularly
-Respect deadlines
-Support teammates when possible
-Example Roles
-Team Member	Role	Responsibilities
-Name	Project Manager	Organising tasks and meetings
-Name	Frontend Developer	UI and client-side work
-Name	Backend Developer	API and database work
-Name	Documentation	Notes and reflections
-4. Decision-Making Process
+## Communication Expectations
+
+### Main Communication Platforms
+
+* Discord: chats and updates
+* Miro: https://miro.com/app/board/uXjVJBNztUg=/ - Project Planning
+* GitHub: https://github.com/pikopiko-2025/Car-Maintenance-Tracker 
+
+### Response Expectations
+
+Team members agree to:
+
+* Respond within 24 hours where possible.
+* Notify the team if unavailable for an extended period.
+* Communicate respectfully and professionally.
+* Keep team members informed of progress and blockers.
+
+### Team Meetings
+
+* Check-ins on Miro 
+* Daily updates (if required): Discord
+* Meeting times: 8pm 
+
+---
+
+## Team Roles and Responsibilities
+
+Each team member will:
+
+* Complete assigned tasks on time.
+* Communicate progress regularly.
+* Ask for help when needed.
+* Respect agreed deadlines.
+* Support teammates where possible.
+* Contribute positively to team discussions.
+
+| Team Member      | Role                  | Responsibilities                                                                                                                    |
+| ---------------- | --------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| Dylan            | Product Owner         | Represents the user/customer perspective, defines priorities, and validates project outcomes.                                       |
+| Tania            | Project Manager       | Translates the product vision into a scoped MVP, coordinates delivery, and manages project planning.                                |
+| Justin           | Technical Lead        | Converts business requirements into technical solutions, guides architecture, and supports implementation decisions.                |
+| Nyree            | Lead Engineer         | Leads development implementation, supports code quality, and assists with technical problem-solving.                                |
+| Tania            | Scrum Facilitator     | Guides team collaboration, facilitates Agile meetings, removes blockers, and helps the team stay focused on achieving sprint goals. |
+| Justin | Git Keeper | managed branches, pull requests, and merge conflicts                                |
+| Dylan / Tania | UI/UX Lead | managed wireframes, user flows, and interface consistency.                                |
+| All Team Members | Full-Stack Developers | Contribute to frontend and backend development, testing, debugging, documentation, and code reviews.                                |
+
+---
+
+## Decision-Making Process
 
 When making decisions, the team will:
 
-Discuss ideas openly
-Allow everyone to share opinions
-Consider advantages/disadvantages
-Vote if agreement cannot be reached
-Respect the final team decision
+1. Discuss ideas openly.
+2. Allow all members to contribute their views.
+3. Consider advantages and disadvantages of each option.
+4. Aim for consensus wherever possible.
+5. Vote if agreement cannot be reached.
+6. Respect the final team decision once made.
 
-Major decisions should not be made without team discussion.
+Major project decisions should not be made without team discussion.
 
-5. Conflict Resolution Process
+---
 
-If conflict occurs, the team agrees to:
+## Conflict Resolution Process
 
-Step 1 — Address the Issue Early
+If conflict occurs, the team agrees to follow the process below.
 
-Team members should communicate concerns as soon as possible rather than allowing frustration to build.
+### Step 1 – Address the Issue Early
 
-Step 2 — Use Respectful Communication
+Team members should raise concerns as soon as possible rather than allowing frustration or misunderstanding to build.
 
-We will:
+### Step 2 – Use Respectful Communication
 
-Listen without interrupting
-Avoid blaming language
-Focus on solutions
-Stay calm and professional
-Step 3 — Use Non Violent Communication (NVC)
+All team members agree to:
 
-We will structure difficult conversations using:
+* Listen without interrupting.
+* Avoid blaming language.
+* Focus on behaviours and outcomes rather than personalities.
+* Remain calm and professional.
+* Work towards solutions.
 
-Observation
+### Step 3 – Use Non-Violent Communication (NVC)
 
-Explain the situation without blame.
+Where appropriate, difficult conversations should follow the NVC framework.
 
-“I noticed the task was submitted after the agreed deadline.”
+**Observation**
+Describe the situation without blame.
 
-Feeling
+Example:
+"I noticed the task was submitted after the agreed deadline."
 
-Express feelings respectfully.
+**Feeling**
+Express the impact respectfully.
 
-“I felt stressed because other tasks depended on it.”
+Example:
+"I felt stressed because other tasks depended on it."
 
-Need
+**Need**
+Explain the underlying need or expectation.
 
-Explain the need or expectation.
+Example:
+"I need clearer communication around delays."
 
-“I need clearer communication around delays.”
+**Request**
+Make a clear and respectful request.
 
-Request
+Example:
+"Could you let the team know earlier if you are falling behind?"
 
-Ask for a solution respectfully.
+### Step 4 – Team Discussion
 
-“Could you let the team know earlier if you are falling behind?”
+If the issue remains unresolved, the team will discuss it together and work towards a fair and practical solution.
 
-Step 4 — Team Discussion
+### Step 5 – Escalation
 
-If needed, the team will discuss the issue together to find a fair solution.
+If resolution cannot be reached within the team, the facilitator, tutor or relevant support person may be involved.
 
-Step 5 — Escalation
+---
 
-If the issue cannot be resolved internally, the facilitator/tutor may be involved.
-
-6. Work Expectations
+## Work Expectations
 
 The team agrees to:
 
-Meet deadlines
-Communicate blockers early
-Share workload fairly
-Participate in meetings
-Keep GitHub/projects updated
+* Meet agreed deadlines.
+* Communicate blockers early.
+* Share workload fairly.
+* Participate in meetings and discussions.
+* Keep GitHub boards, issues and project tracking tools updated.
+* Notify the team if circumstances affect availability.
 
-If a member cannot complete work:
+If a member cannot complete assigned work, they should inform the team as early as possible so alternative arrangements can be made.
 
-They should inform the team early
-Another member may assist if needed
-7. Wellbeing & Stress Management
+---
 
-We recognise that stress can affect communication and productivity.
+## Wellbeing and Stress Management
 
-Team Wellbeing Practices
-Encourage breaks
-Support flexible scheduling when possible
-Check in with teammates regularly
-Avoid overloading one person
-Sharing Stress Signals
+We recognise that stress can affect communication, collaboration and productivity.
 
-Team members may communicate:
+### Team Wellbeing Practices
 
-When feeling overwhelmed
-When needing support
-When needing reduced workload temporarily
+The team will:
+
+* Encourage regular breaks.
+* Support flexible scheduling where possible.
+* Check in with teammates regularly.
+* Avoid overloading any one person.
+* Promote a supportive and inclusive environment.
+
+### Sharing Stress Signals
+
+Team members are encouraged to communicate when they:
+
+* Feel overwhelmed.
+* Need support.
+* Require temporary workload adjustments.
 
 Example:
 
-“I’m feeling overloaded this week due to other commitments and may need help with my tasks.”
+"I am feeling overloaded this week due to other commitments and may need help with some of my tasks."
 
-8. Availability & Working Hours
-Team Member	Preferred Working Hours	Unavailable Times
-Name	Example: 4pm–9pm	Example: Sundays
-Name		
-9. Feedback Guidelines
+---
 
-When giving feedback, the team will:
+## Feedback Guidelines
 
-Be constructive
-Focus on improvement
-Avoid personal attacks
-Respect different opinions
-Recognise positive contributions
-10. Team Agreement
+When providing feedback, team members will:
 
-By participating in this project, all team members agree to follow this conflict resolution framework and contribute respectfully to the team environment.
+* Be constructive and respectful.
+* Focus on improvement and outcomes.
+* Avoid personal criticism or attacks.
+* Respect differing viewpoints.
+* Recognise and acknowledge positive contributions.
+* Be open to receiving feedback from others.
 
-Name	Signature/Agreement
+---
+
+## Team Agreement
+
+By participating in this project, all team members agree to follow this Conflict Resolution Framework and contribute positively to a respectful, collaborative and productive team environment.
+
+| Name | Signature / Agreement |
+| ---- | --------------------- |
+|      |                       |
+|      |                       |
+|      |                       |
+|      |                       |
