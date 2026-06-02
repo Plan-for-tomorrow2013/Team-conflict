@@ -75,7 +75,7 @@ Each team member will:
 | Justin | Git Keeper | managed branches, pull requests, and merge conflicts                                |
 | Dylan / Tania | UI/UX Lead | managed wireframes, user flows, and interface consistency.                                |
 | All Team Members | Full-Stack Developers | Contribute to frontend and backend development, testing, debugging, documentation, and code reviews.                                |
-
+| All Team Members | Vibes Watcher | Supports team wellbeing by promoting positive communication, checking in on team morale, and helping maintain a collaborative and supportive team environment |
 ---
 
 ## Decision-Making Process
