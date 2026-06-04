@@ -210,7 +210,7 @@ When providing feedback, team members will:
 By participating in this project, all team members agree to follow this Conflict Resolution Framework and contribute positively to a respectful, collaborative and productive team environment.
 
 | Name | Signature / Agreement |
-| ---- | --------------------- |
+| Tania Hannaford | Agreed and dated 4 June 2026 |
 |      |                       |
 |      |                       |
 |      |                       |
